@@ -1,19 +1,14 @@
-{
-    "collectQuestion": [
-        {
-            "id": 1,
-            "pertanyaan": "siapa presiden indonesia?",
-            "jawaban": "jokowi"
-        },
-        {
-            "id": 2,
-            "pertanyaan": "Tahun berapa indonesia merdeka",
-            "jawaban": "1945"
-        },
-        {
-            "id": 3,
-            "pertanyaan": "Sebutkan kota yang memiliki julukan kota intan?",
-            "jawaban": "garut"
-        }
-    ]
-}
+[
+    {
+        "pertanyaan": "siapa presiden indonesia?",
+        "jawaban": "jokowi"
+    },
+    {
+        "pertanyaan": "Tahun berapa indonesia merdeka",
+        "jawaban": "1945"
+    },
+    {
+        "pertanyaan": "Sebutkan kota yang memiliki julukan kota intan?",
+        "jawaban": "garut"
+    }
+]
